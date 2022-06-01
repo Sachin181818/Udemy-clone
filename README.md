@@ -18,10 +18,13 @@ STEPS FOLLOWED
 9. Now the order is placed and after some time it will redirected to homepage.
 10. We have also added Footer in all the Pages and also added navbar in all pages.
 11. And we have also added some little functionality like using search u can get the courses,these can be check by opening the Page.
+![Screenshot (119)](https://user-images.githubusercontent.com/99666763/171471947-379474a4-f3d6-450f-843c-61b6dd1d2808.png)
+
+
 
 FUNCTIONALITIES IMPLEMENTED
 
-1. ignup via gmail,facebook, after that it will go to login 
+1. Signup via gmail,facebook, after that it will go to login 
 2. Search bar Shows the Courses searched for
 3. Can directly add to cart from here
 4. Filter Course based on Sorting,
